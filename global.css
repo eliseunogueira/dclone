@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add global styles here */
+body {
+  /* Example of a global style */
+}
